@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572300372 source:c:\users\usuario\desktop\educem\m1-claudina\codeblocks\ejercicios\ej-26\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
