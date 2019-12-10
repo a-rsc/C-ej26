@@ -13,6 +13,7 @@ int main()
     scanf("%d", &num);
     fflush(stdin);
 
+    // Es lo mismo (!creixent || !decreixent) INTERESANTE!!!!
     while (num != 0 && !(creixent && decreixent)) {
 
         numAnt = num;
